@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ipch
+*.VC.db
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# Executables
+*.exe
