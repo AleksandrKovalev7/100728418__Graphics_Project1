@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# Executables
+*.exe
