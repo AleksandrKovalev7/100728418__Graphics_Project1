@@ -3,6 +3,7 @@
 *.user
 *.suo
 *.VC.db
+*.ipch
 
 # Build outputs
 Debug/
@@ -12,3 +13,6 @@ x86/
 
 # Executables
 *.exe
+
+# Old mistaken files
+.gitignore.txt
